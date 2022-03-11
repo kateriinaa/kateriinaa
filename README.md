@@ -3,7 +3,7 @@
 Hi, I’m @kateriinaa
 
 Areas of interest:
-- Database
+- Data bases
 - Machine Learning
 - Data mining
 - Automation and process optimization
