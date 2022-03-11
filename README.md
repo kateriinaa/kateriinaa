@@ -14,7 +14,7 @@ Now I am willing to develop hard and soft skills and looking for a job in my are
 
 ### 📬 Contact me
 
-Find me on [Github](https://github.com/kateriinaa) or just send a letter to [Gmail](petrova.kateriina@gmail.com)
+Find me on [Github](https://github.com/kateriinaa) or just send a letter to petrova.kateriina@gmail.com
 
 💻 Also there are several projects that I have done during the course. Find them here [Projects](https://github.com/kateriinaa/Projects)
 
