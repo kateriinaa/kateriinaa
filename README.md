@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-Hi, I’m @kateriinaa
+Hi, I’m @kateriinaa, junior DS
 
 Areas of interest:
 - Data bases
