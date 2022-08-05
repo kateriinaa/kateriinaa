@@ -8,7 +8,7 @@ Areas of interest:
 - Data mining
 - Automation and process optimization
 
-Not long ago I finished Data science course. 
+In February 2022 I finished Data science course. 
 
 Now I am willing to develop hard and soft skills in my area of interest.
 
@@ -17,6 +17,8 @@ Now I am willing to develop hard and soft skills in my area of interest.
 Find me on [Github](https://github.com/kateriinaa) or just send a letter to petrova.kateriina@gmail.com
 
 💻 Also there are several projects that I have done during the course. Find them here [Projects](https://github.com/kateriinaa/Projects)
+
+🌲🏔
 
 <!---
 kateriinaa/kateriinaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
