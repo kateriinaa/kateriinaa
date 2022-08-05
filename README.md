@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-Hi, I’m @kateriinaa, junior DS
+Hi, I’m @kateriinaa, junior DS/DE
 
 Areas of interest:
 - Data bases
@@ -10,7 +10,7 @@ Areas of interest:
 
 Not long ago I finished Data science course. 
 
-Now I am willing to develop hard and soft skills and looking for a job in my area of interest.
+Now I am willing to develop hard and soft skills in my area of interest.
 
 ### 📬 Contact me
 
