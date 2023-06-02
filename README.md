@@ -1,14 +1,11 @@
 ## ABOUT ME
 
-Hi, I’m @kateriinaa, junior DS/DE
+Hi, I’m @kateriinaa, junior DE and QA
 
 Areas of interest:
 - Data bases
-- Machine Learning
-- Data mining
-- Automation and process optimization
-
-In February 2022 I finished Data science course. 
+- Testing
+- Automation and process optimization 
 
 Now I am willing to develop hard and soft skills in my area of interest.
 
@@ -16,7 +13,7 @@ Now I am willing to develop hard and soft skills in my area of interest.
 
 Find me on [Github](https://github.com/kateriinaa) or just send a letter to petrova.kateriina@gmail.com
 
-💻 Also there are several projects that I have done during the course. Find them here [Projects](https://github.com/kateriinaa/Projects)
+💻 Also there are several projects that I have done during the Data Science course. Find them here [Projects](https://github.com/kateriinaa/Projects)
 
 🌲🏔
 
