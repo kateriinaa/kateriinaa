@@ -15,7 +15,8 @@ Find me on [Github](https://github.com/kateriinaa) or just send a letter to petr
 
 💻 Also there are several projects that I have done during the Data Science course. Find them here [Projects](https://github.com/kateriinaa/Projects)
 
-- UI tests on Python [Python Automation Tests](https://github.com/kateriinaa/ITMO_UI_Automation_Python)
+- UI tests on Python [UI Tests](https://github.com/kateriinaa/ITMO_UI_Automation_Python)
+- API tests on Python [API Tests](https://github.com/kateriinaa/ITMO_API_Automation_Python)
 
 🌲🏔
 
