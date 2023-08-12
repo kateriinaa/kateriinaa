@@ -14,7 +14,8 @@ Now I am willing to develop hard and soft skills in my area of interest.
 Find me on [Github](https://github.com/kateriinaa) or just send a letter to petrova.kateriina@gmail.com
 
 💻 Also there are several projects that I have done during the Data Science course. Find them here [Projects](https://github.com/kateriinaa/Projects)
-Some tests on Python [Python Automation Tests]()
+
+- UI tests on Python [Python Automation Tests](https://github.com/kateriinaa/ITMO_UI_Automation_Python)
 
 🌲🏔
 
